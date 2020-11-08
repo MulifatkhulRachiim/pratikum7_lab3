@@ -8,4 +8,9 @@ Pada pertemuan ke 7 bahasa pemrograman saya di beri tugas oleh dosen (seperti ga
 ![tugas 7](picture/lat1.PNG) . <br>
 
 berikut hasilnya : <br>
-![tugas 7](picture/lab3_lat1.PNG)
+![tugas 7](picture/lab3_lat1.PNG) <br>
+
+selanjutnya ![tugas 7](picture/lat2.PNG)<br>
+
+berikut hasilnya : <br>
+![tugas 7](picture/lab3_lat2.PNG)<br>
