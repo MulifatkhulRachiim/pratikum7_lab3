@@ -2,4 +2,6 @@
 Repository ini dibuat untuk memenuhi tugas pratikum 7 lab 3
 
 
-**Nama : Farah***
+**Nama : Mulifatkhul Rachiim** <br>
+**NIM  : 312010180** <br>
+berikut 
